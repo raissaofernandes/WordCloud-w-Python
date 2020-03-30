@@ -1,2 +1,2 @@
 # WordCloud-w-Python
-Geração de uma WordCloud utilizando Python.
+Uma WordCloud é, a grosso modo, uma representação visual de dados.
